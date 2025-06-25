@@ -1,10 +1,10 @@
-# 🚗 Fast & Furious - Projeto de Site Institucional
+# Fast & Furious - Projeto de Site Institucional
 
 Bem-vindo ao projeto **Fast & Furious**, um site fictício e responsivo, desenvolvido como parte de um exercício de front-end com HTML, CSS, Bootstrap e JavaScript. Ele simula uma página institucional inspirada na famosa franquia de filmes "Velozes e Furiosos", com foco em estética, navegação e interatividade.
 
 ---
 
-## 📌 Funcionalidades
+# Funcionalidades
 
 - Página inicial com imagem de fundo e botão de navegação.
 - Seção explicativa sobre o que é a franquia *Fast & Furious*.
@@ -17,18 +17,17 @@ Bem-vindo ao projeto **Fast & Furious**, um site fictício e responsivo, desenvo
 
 ---
 
-## 💻 Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - **HTML5** – estruturação da página.
 - **CSS3** – estilização customizada.
 - **Bootstrap 5** – responsividade e componentes visuais.
 - **JavaScript** – interatividade e validação de formulário.
 - **Google Fonts** – tipografias personalizadas (`Montserrat` e `Lemon`).
-- **Bootstrap Icons** – ícones sociais (WhatsApp, Instagram, TikTok).
 
 ---
 
-## 📁 Estrutura de Arquivos
+# Estrutura de Arquivos
 /
 ├── index.html
 ├── styles.css
@@ -43,7 +42,7 @@ Bem-vindo ao projeto **Fast & Furious**, um site fictício e responsivo, desenvo
 
 ---
 
-## 🚀 Como Executar
+# Como Executar
 
 1. **Clone ou baixe** o repositório.
 2. Certifique-se de que todos os arquivos estejam no mesmo diretório.
@@ -54,7 +53,7 @@ Bem-vindo ao projeto **Fast & Furious**, um site fictício e responsivo, desenvo
 
 ---
 
-## ✅ Validação de Formulário
+# Validação de Formulário
 
 O formulário de contato valida os seguintes campos:
 
@@ -62,19 +61,19 @@ O formulário de contato valida os seguintes campos:
 - **Email**: deve ter um formato válido.
 - **Mensagem**: campo obrigatório.
 
-Após validação, os dados são exibidos em um `alert()` para simular um envio.
+Após validação, os dados são exibidos em um alerta para simular um envio.
 
 ---
 
-## 📷 Créditos e Licença
+# réditos e Licença
 
-Este projeto é fictício, criado para fins educacionais com base no curso **Start na Programação - Alura**.
+Este projeto é fictício, criado para fins educacionais com base no curso **Desenvolvimento front-end**.
 
 **Imagens e logos** utilizadas são ilustrativas e sem fins comerciais.
 
 ---
 
-## ✍️ Autor
+# Autor
 
-**Start by Alura**  
-Desenvolvido com ❤️ para aprendizado de desenvolvimento front-end.
+**Murilo Henrique de Almeida**  
+Desenvolvido para aprendizado de desenvolvimento front-end.
