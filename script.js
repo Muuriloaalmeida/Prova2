@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
     const form = document.getElementById('form-contato');
-    
+
     form.addEventListener('submit', function (e) {
         e.preventDefault();
 
